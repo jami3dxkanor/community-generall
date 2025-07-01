@@ -1,0 +1,22 @@
+{
+    "headerText": "Change Language",
+    "welcome": "Welcome",
+    "title": "Coming April 15",
+    "logo": "Logo",
+    "ticker": "Our website in under construction",
+    "mainMessage": "Aws Community Day 2023",
+    "description": "It is the largest annual meeting in Lima for the community that uses and develops the AWS cloud.",
+    "buttonText": "NOTIFY ME",
+    "placeholder": "Enter email address",
+    "not_found": "404 - Page Not Found",
+    "copyrightText": "Modified by AWS UG Peru © 2023. All rights reserved.",
+    "languageText": "Language ",
+    "languageName": "English",
+    "successMsg": "Thank you for the submission",
+    "errorMsg": "Oops!!Something went wrong.",
+    "days": "days",
+    "hours": "hours",
+    "minutes": "minutes",
+    "seconds": "seconds",
+    "demoTxt": "DEMOS"
+}
